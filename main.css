@@ -1,0 +1,29 @@
+*{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: #6053b2;
+}
+.contaienr{
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-size: 2.5em;
+    color: #fff;
+}
+.relogio{
+    font-size: 3em;
+    padding: 1em;
+}
+.parar{
+    color:red;
+}
+ul li{
+    color:#fff;
+}
